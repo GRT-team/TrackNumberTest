@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TrackNumberTest</string>
+
+    <string name="phone_hint">Enter phone</string>
+    <string name="country_code_hint">Enter country code</string>
+
+    <string name="generate_random_button">Generate random</string>
+
+</resources>
